@@ -13,3 +13,13 @@ print(type(c))
 d = True
 print(d)
 print(type(d))
+
+# output
+# 10
+# <class 'int'>
+# 10.34
+# <class 'float'>
+# Elango Kannan
+# <class 'str'>
+# True
+# <class 'bool'>
