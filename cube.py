@@ -1,3 +1,4 @@
+# 9
 a = int(input("Enter any number: "))
 cube = a**3
 print("The cube value for given number is: ", cube)

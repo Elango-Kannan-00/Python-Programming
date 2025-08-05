@@ -1,3 +1,4 @@
+# 4
 a = int(input("Enter any number: "))
 print("The value is: ", a)
 print(type(a))

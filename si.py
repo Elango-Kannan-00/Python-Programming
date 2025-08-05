@@ -1,3 +1,4 @@
+# 7
 p = int(input("Enter the principal amount: "))
 r = float(input("Enter the rate of interest: "))
 t = float(input("Enter the time duration: "))

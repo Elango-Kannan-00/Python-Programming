@@ -1,3 +1,4 @@
+# 1
 # first program
 # printing hello world
 print("Hello AI world")

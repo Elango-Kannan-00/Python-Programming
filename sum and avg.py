@@ -1,3 +1,4 @@
+# 6
 a = int(input("Enter Mark1: "))
 b = int(input("Enter Mark2: "))
 c = int(input("Enter Mark3: "))
