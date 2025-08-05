@@ -1,4 +1,4 @@
-# 
+# 12
 a = int(input())
 b = int(input())
 c = float(input())
